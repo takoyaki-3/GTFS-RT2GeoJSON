@@ -2,7 +2,7 @@
 
 GTFS-RTを可視化する為、複数のGTFS-RTから[kepler.gl](https://kepler.gl/demo)で可視化する為のGeoJSON及びParquetを生成するコードです。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LccELuPGdV8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![](https://img.youtube.com/vi/LccELuPGdV8/0.jpg)](https://www.youtube.com/watch?v=LccELuPGdV8)
 
 ※上図データは[東京公共交通オープンデータセンター](https://www.odpt.org/)にて公開されている横浜市営バスGTFS-RTデータを使用
 
